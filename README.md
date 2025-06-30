@@ -24,14 +24,14 @@ Construir um agregador de dados no Excel que permita ao usuário:
 
 ## 🧩 Estrutura do Arquivo
 
-- `Simulador de IR.xlsx`: Arquivo principal da ferramenta;
+- `Organizador_Declaração_IR.xlsx`: Arquivo principal da ferramenta;
 - `/images`: Pasta com capturas de tela da planilha em funcionamento (opcional).
 
 ---
 
 ## 🚀 Como Usar
 
-1. Baixe o arquivo `Simulador de IR.xlsx`;
+1. Baixe o arquivo `Organizador_Declaração_IR.xlsx`;
 2. Abra no Microsoft Excel (versão 2016 ou superior recomendada);
 3. Navegue entre as abas usando o menu principal;
 4. Preencha os dados conforme solicitado em cada categoria;
@@ -45,15 +45,15 @@ Abaixo estão exemplos visuais da planilha de Simulador de IR:
 
 ### 📄 Aba Titular
 
-![Aba Titular](Simulador_IR_Titular.png)
+![Aba Titular](Organizador_Declaração_IR_Titular.png)
 
 ### 📊 Aba Informes
 
-![Aba Informes](Simulador_IR_Informes.png)
+![Aba Informes](Organizador_Declaração_IR_Informes.png)
 
 ### 📊 Aba Notas
 
-![Aba Notas](Simulador_IR_Notas.png)
+![Aba Notas](Organizador_Declaração_IR_Notas.png)
 
 
 ---
